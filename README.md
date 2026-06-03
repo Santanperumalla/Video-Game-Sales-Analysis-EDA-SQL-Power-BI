@@ -177,10 +177,6 @@ This project demonstrates how Exploratory Data Analysis can be used to understan
 
 ## 👤 Author
 
-**Santan**
+**Santan Perumalla**
 
 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
-
----
-
-### ⭐ If you found this project useful, consider giving it a star on GitHub!
