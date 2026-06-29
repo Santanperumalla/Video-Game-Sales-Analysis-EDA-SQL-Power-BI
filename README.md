@@ -1,4 +1,4 @@
-# 🎮 Video Game Sales Analytics
+# 🎮 Global Video Game Sales Intelligence Dashboard
 
 ## 📌 Project Overview
 
